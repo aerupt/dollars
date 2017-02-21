@@ -10,6 +10,7 @@ use the free plan.
 This is how you use it:
 
 ```
+$ pip install dollars
 $ export OXR_APP_ID=...  # Your freely achieved app id
 $ ipython
 
