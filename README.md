@@ -1,4 +1,4 @@
-# dollars
+# $$$
 
 Converts amounts of any (a lot!) currency to dollars.
 
