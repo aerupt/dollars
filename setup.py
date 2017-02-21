@@ -12,7 +12,7 @@ with open('README.rst') as readme:
 
 setup(
     name='dollars',
-    version='0.1',
+    version='0.2.0',
     description='Converts everything to dollars using up to date rates for '
                 'free',
     long_description=long_description,
