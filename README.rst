@@ -1,7 +1,7 @@
 $$$
 ===
 
-Use this Python library to convert amounts of nearly any currency into dollars. 
+Use this Python library to convert amounts of nearly any currency into dollars.
 
 $$$ uses the `Open Exchange Rates <https://openexchangerates.org/>`__ currency data API as a backend. It caches the rates for you, and pulls in the new values hourly so that your data will
 never be older than < 2 hours. For that, you will
